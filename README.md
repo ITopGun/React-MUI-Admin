@@ -81,7 +81,7 @@ Your app is ready to be deployed!
 
 ## More from Flatlogic
 
-- [React Native Starter](https://github.com/flatlogic/react-native-starter) - 🚀 A powerful react native starter template that bootstraps development of your mobile application
+- [React Native Starter](https://github.com/ITopGun/React-Native-Starter) - 🚀 A powerful react native starter template that bootstraps development of your mobile application
 - [Sing App](https://github.com/flatlogic/sing-app) - 💥 Free and open-source admin dashboard template built with Bootstrap 4
 - [Awesome Bootstrap Checkboxes & Radios](https://github.com/flatlogic/awesome-bootstrap-checkbox) - ✅ Pure css way to make inputs look prettier
 - [React Dashboard](https://github.com/flatlogic/react-dashboard) - 🔥 React Dashboard - isomorphic admin dashboard template with GraphQL
