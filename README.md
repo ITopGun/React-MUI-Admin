@@ -82,5 +82,5 @@ Your app is ready to be deployed!
 ## More from ITopGun
 
 - [React Native Starter](https://github.com/ITopGun/React-Native-Starter) - 🚀 A powerful react native starter template that bootstraps development of your mobile application
-- [React Dashboard](https://github.com/flatlogic/react-dashboard) - 🔥 React Dashboard - isomorphic admin dashboard template with GraphQL
+- [React Dashboard](https://github.com/ITopGun/React-Dashboard.git) - 🔥 React Dashboard - isomorphic admin dashboard template with GraphQL
 - [Light Blue Dashboard](https://github.com/flatlogic/light-blue-dashboard) - 💦 Free and open-source admin dashboard template built with Bootstrap
