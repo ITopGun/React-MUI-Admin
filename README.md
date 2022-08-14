@@ -79,7 +79,7 @@ Your app is ready to be deployed!
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 - Follow [@ITopGun on Github](https://github.com/ITopGun).
 
-## More from Flatlogic
+## More from ITopGun
 
 - [React Native Starter](https://github.com/ITopGun/React-Native-Starter) - 🚀 A powerful react native starter template that bootstraps development of your mobile application
 - [React Dashboard](https://github.com/flatlogic/react-dashboard) - 🔥 React Dashboard - isomorphic admin dashboard template with GraphQL
